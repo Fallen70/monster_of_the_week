@@ -6,7 +6,7 @@ Une cicatrice, souvenir d'une rencontre avec un loup-garou
 Ezekiel l'a sortie d'un situation critique. *A creuser*
 
 # Divin Ezekiel - Pierre
-A pris le pyjama de viande d'un trumpiste bûcheron, ne connais que peu de chose des humains.
+A pris l'apparence  d'un trumpiste bûcheron, ne connais que peu de chose des humains.
 Il veut explorer l'humanité.
 
 *A creuser comment les divins descendent sur terre (pyjama de chair ou autre chose)*
@@ -25,7 +25,9 @@ Figurant **Maggie Doyle** Journaliste ( Fouineuse ) sauvé par les joueurs.
 # Scénarios a préparer
 
 ## Un songe d'une nuit d'été ( Livre de base )
-Accroche énigmatique *"Qui est en tord, Celui qui réclame ou celui qui ne sais plus?"*
+Accroche énigmatique pour les enfants du Coyote *"Qui est en tord, Celui qui réclame ou celui qui ne sais plus?"*
+
+Accroche pour Ezekiel. *Tu reçois une révélation, l'ordre a été rompu a **Handfast** des calamité s'abattent sur le village. Des catastrophe climatique se succédent ( canicule, tornades, crues ). Des denrées alimentaires pourrissent sans raison*
 
 
 
