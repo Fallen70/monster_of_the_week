@@ -6,9 +6,9 @@ Les chasseurs sont tous des enfants du quartier. Ils font parti du club des myst
 C'est surtout l'occasion de se retrouver ensemble et de faire des bêtises.
 
 # Style (p 97)
-[ ] **Complétude**
-[ ] **Comique**
-[ ] **Cool**
+* [ ] **Complétude**  
+* [ ] **Comique**  
+* [ ] **Cool**  
 
 
 
