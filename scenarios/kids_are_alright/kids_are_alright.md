@@ -20,7 +20,7 @@ Un ami du groupe de joueur qui était très turbulent  est devenu du jour au len
 
 ## Réveiller des endormis
 **2d6 + charme** pour faire revenir a lui un enfant hypnotisé
--  10+ l'enfant ce réveille et ne pourra plus être hypnotisé
+- 10+ l'enfant ce réveille et ne pourra plus être hypnotisé
 - 7-9 l'enfant se réveille mais aura besoin d'aide pour rentre chez lui
 - Échec: l'enfant s’énerve et refusera de parler au chasseur
 
@@ -50,7 +50,7 @@ Madame **Jenkins** est en réalité une sorcière qui enlève des enfants et les
 * Détruire son grimoire ancien écrit dans une langue incompréhensible
 * Etre tournée en ridicule 
 #### Manœuvre
-##### Autorité effrayante
+##### Autorité hypnotique
 La sorcière montre son vrai visage aux enfants qu'elle a capturé, ils sont comme sous hypnose et lui obéissent aveuglément.
 Pour résister **2d6 +cool**
 * 10+ Résistance et bonus permanent de 1 pour des actions contre la sorcière. 1 PX si le chasseur obéit
@@ -61,7 +61,9 @@ Pour résister **2d6 +cool**
 
 ## Sbire: Changelins 
 * Bras droit __ soutenir la sorcière
-les Changelins sont créés par la sorcière a partir de bonhomme en pain d'épice pour remplacer les enfant emprisonné.
+
+Les Changelins sont créés par la sorcière a partir de bonhomme en pain d'épice pour remplacer les enfant emprisonné.
+
 - **3 blessures** <input type="checkbox"><input type="checkbox"><input type="checkbox">
 - **Armure : 0**
 Une fois *Détruit* il se transforme en bonhomme en pain d'épice.
@@ -81,5 +83,11 @@ Il est fermé a clef, **Mme Jenkins** garde la clef sur elle en permanence.
 ## Magasin de farce et attrape ( Carrefour )
 
 le lieu idéal pour tout vos achats de coussin péteur et verre baveur.
+
+# Figurants
+
+## Un ami proche des chasseur ( Victime: se faire capturer )
+## Le gérant du magasin de farce et attrape
+
 
 
