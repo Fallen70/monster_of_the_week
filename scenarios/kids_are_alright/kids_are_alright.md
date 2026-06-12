@@ -31,8 +31,8 @@ Un ami du groupe de joueur qui était très turbulent  est devenu du jour au len
 
 | Etape                 | Action                                          |
 | --------------------- | ----------------------------------------------- |
-| **Jour**              | Un enfant du quartier est remplacé              |
-| **Pénombre**          | Un ami proche du groupe de joueur est remplacé  |
+| **Jour**              | Un ami proche du groupe de joueur est remplacé  |
+| **Pénombre**          | Un enfant du quartier est remplacé              |
 | **Coucher du soleil** | Un parent disparait                             |
 | **Crépuscule**        | Un chasseur est capturé                         |
 | **Tombée de la nuit** | Tous les chasseurs sont capturé                 |
@@ -42,7 +42,7 @@ Un ami du groupe de joueur qui était très turbulent  est devenu du jour au len
 
 ### Sorcière — Posséder et contrôler des enfants
 
-Madame **Jenkins** est en réalité une sorcière qui enlève des enfants et les remplacent par des *Changelins*. La sorcière attire les enfants dans sa maison avec des bonbons, puis les remplace avec un *Changelin* ( poli, gentil, enfant modèle. 
+Madame **Jenkins** est en réalité une sorcière qui enlève des enfants et les remplacent par des *Changelins*. La sorcière attire les enfants dans sa maison avec des bonbons, puis les remplace avec un *Changelin* ( poli, gentil, enfant modèle ). 
 
 - **5 blessures** <input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox"><input type="checkbox">
 - **Armure : 0**
@@ -59,8 +59,8 @@ Pour résister **2d6 +cool**
 ##### Martinet
 1 dégât allonge personnel 
 
-## Sbire: Changelins 
-* Bras droit __ soutenir la sorcière
+## Sbires
+###  Changelins — Soutenir la sorcière
 
 Les Changelins sont créés par la sorcière a partir de bonhomme en pain d'épice pour remplacer les enfant emprisonné.
 
