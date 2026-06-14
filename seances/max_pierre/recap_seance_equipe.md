@@ -9,7 +9,7 @@ Ezekiel l'a sortie d'un situation critique. *A creuser*
 A pris l'apparence  d'un trumpiste bûcheron, ne connais que peu de chose des humains.
 Il veut explorer l'humanité.
 
-*A creuser comment les divins descendent sur terre (pyjama de chair ou autre chose)*
+*A creuser comment les divins descendent sur terre (pyjama de chair ou autre chose)* Avatar d'*Azrael*
 ## Lien avec Enieto
 Il a répondu a ces prières volontaires ou pas. 
 

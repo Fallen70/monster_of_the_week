@@ -14,7 +14,6 @@ Les Tricksters sont des créatures extrêmement puissante. Ils peuvent manipuler
 ## Une fois initié
 Si un membre parait méritant ou attise la curiosité du Coyote il reçoit un masque d'animal.
 ### Réunions
-En mettant le masque vous êtes transposé dans un espace qui mélange magie et réalité virtuelle car le masque n'est alimenté par rien et ne fonctionne que pour son propriétaire.
-Ils sont transporté d'en un espace virtuelle sous l'apparence d'enfants.
+En mettant le masque vous êtes transposé dans un espace en dehors du temps sous l'apparence d'enfants.
 ### Le Forum
 Les initiés ont mis en place un forum pour échanger plus facilement des information.
