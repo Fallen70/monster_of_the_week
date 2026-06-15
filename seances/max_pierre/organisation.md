@@ -16,4 +16,7 @@ Si un membre parait méritant ou attise la curiosité du Coyote il reçoit un ma
 ### Réunions
 En mettant le masque vous êtes transposé dans un espace en dehors du temps sous l'apparence d'enfants.
 ### Le Forum
-Les initiés ont mis en place un forum pour échanger plus facilement des information.
+Les initiés ont mis en place un forum pour échanger plus facilement des informations.
+
+### Les réveurs
+il reçoivent les informations en ligne directe.

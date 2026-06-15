@@ -9,10 +9,19 @@ date clef depuis 2025 :
 
 # Ajouts
 
+## Eglise puritaniste
+
+
 ## **Mercy House Infirmary**
 
 Petit établissement de soin fondé à l’origine par des religieux anglicans vers 1670. Dispensaire historique toujours en activité avec un médecin de garde.
 
 ## The Green Commons
-La place centrale du village, avec marché fermier et fêtes saisonnières.
+La place centrale du village, avec marché fermier et fêtes saisonnières.clle
 
+# déroule
+- découverte des cycles de disparition
+- connaissance du pattern de brise os
+- confrontation avec Brise-Os 
+- Violette arrête l'altercation
+- Ezekiel a blesse une victime en la soignant
