@@ -14,11 +14,10 @@ Ezekiel l'a sortie d'un situation critique. *A creuser*
 A pris l'apparence  d'un trumpiste bûcheron, ne connais que peu de chose des humains.
 Il veut explorer l'humanité.
 
-Est apparu pour sauver Enieto d'un vampire.
+Est apparu pour sauver Enyeto d'un vampire.
 
-*A creuser comment les divins descendent sur terre (pyjama de chair ou autre chose)* Avatar d'*Ezekiel*
-## Lien avec Enieto
-Il a répondu a ces prières volontaires ou pas. 
+## Lien avec Enyeto
+Apparu suite aux prières d'Enyeto. 
 
 # Scénarios joué 
 
