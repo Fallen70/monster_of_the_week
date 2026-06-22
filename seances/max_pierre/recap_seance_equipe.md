@@ -4,8 +4,9 @@ Une cicatrice, souvenir d'une rencontre avec un vampire qui lui a dérobe son pr
 
 Recruté par l'aigle.
 
-mère et père de diffèrente tribu.
-aiyana mère
+mère et père de différente tribu.
+Aiyana mère décédée
+père absent.
 
 ## Lien avec Ezekiel
 Ezekiel l'a sortie d'un situation critique. *A creuser*
