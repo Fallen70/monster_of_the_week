@@ -2,6 +2,11 @@ Une version *Club des mystère* de l'épisode *Kids are Alright* de *Supernatura
 L'objectif et de faire jouer ce scénario a mon neveu et ma nièce, je préférais qu'on ait pas besoin d’archétype et qu'on s'appuie uniquement sur les manœuvres de base.
 
 Placer l'intrigue dans le quartier résidentiel de la ville
+
+# Préparations
+## Questions pour le club des mystères
+- Quel est le dernier mystère résolu et comment ? Comment Billy a participé ? 
+
 # Mystère
 
 Une sorcière kidnappe les enfants de la ville et les remplace par des *Changelins* qui sont des enfants parfait ( poli, obéissant, toujours bien habillés ). 
@@ -64,30 +69,59 @@ Pour résister **2d6 +cool**
 
 Les Changelins sont créés par la sorcière a partir de bonhomme en pain d'épice pour remplacer les enfant emprisonné.
 
+Tous les soirs ils se réunissent au parc pour amener des offrandes a la sorcière.
+
 - **3 blessures** <input type="checkbox"><input type="checkbox"><input type="checkbox">
 - **Armure : 0**
 Une fois *Détruit* il se transforme en bonhomme en pain d'épice.
+#### Manœuvre
+##### Attrapez le!
+Si un chasseur et seul avec au moins deux sbires ils le capture pour l’amener a la sorcière.
+##### Main nue
+1 dégât personnel 
 
 # Lieux
 
-## Maison de Mme Jenkins (Laboratoire)
+## Grenier de Mme Jenkins ( Antre )
+Lieu de stockage des trésors récolté par les Changelins, on peut y accéder par l'extérieur. On y trouve de l'argent de poche.
 
+## Maison de Mme Jenkins ( Laboratoire )
 Une maison qui a l'air tout a fait normale mais c'est la que la sorcière prépare ces maléfices. On peut y trouver son grimoire parmi les livres de recettes.
 Si on espionne la maison la nuit on peut y voir les enfants kidnappé faire le ménage et différentes tâches ingrates.
 
 ## Sous-sol de Mme Jenkins ( Prison )
-
 Le sous-sol est aménagé pour héberger une dizaine d'enfant. il y sont enfermé la journée.
 Il est fermé a clef, **Mme Jenkins** garde la clef sur elle en permanence.
 
-## Magasin de farce et attrape ( Carrefour )
+## Parc ( Carrefour )
+Le parc du quartier, lieu de rassemblement des enfants. A la tombée de la nuit les changelins s'y retrouve pour amener l'argent de poche gagné à la sorcière.
+Il se dirige vers la maison de **Mme Jenkins** et stocke leur trésors au grenier.
 
+## Magasin de farce et attrape ( Carrefour )
 le lieu idéal pour tout vos achats de coussin péteur et verre baveur.
+
+## École ( Carrefour )
+On peut y trouver :
+- tous les dessins sont identiques
+- tous les enfants écrivent avec la même écriture
+- la maîtresse est ravie mais un peu inquiète
+Il y  a également 
 
 # Figurants
 
-## Un ami proche des chasseur ( Victime: se faire capturer )
-## Le gérant du magasin de farce et attrape
+## Billy ( Victime: se faire capturer )
+**Un ami proche des chasseurs**
+Il a participé au dernier mystère résolu par le club depuis plus de nouvelle. Il a été capturé par la sorcière. 
 
+## Edgar ( Assistant )
+**Le gérant du magasin de farces.**
+Toujours prêt à offrir :
+- coussin péteur
+- faux cafards
+- poudre à éternuer
+- savon qui noircit les mains
+Il devient une source d'équipement contre la sorcière.
 
-
+## Madame Martin ( Commère )
+**La maîtresse.**
+Elle adore les nouveaux enfants. Mais elle finit par reconnaître que c'est étrange, Ils sont... trop parfaits.
