@@ -6,6 +6,16 @@ Ici, pas de violence sanglante ni de danger mortel : les monstres sont grotesque
 
 ---
 
+## club des mystéres
+
+Les chasseurs font parti du *"club des mystéres"* ils enquétent en secret sur des bizarrerie qui se passent dans le quartier. Pour mettre en place le groupe, voici des questions a poser:
+
+* Quel est le dernier mystére sur lequel vous avez enquété
+* Comment l'avez vous résolu ?
+* Comment **Julien** y a participer ?
+
+---
+
 ## 👁️ Note d'Intention & Ambiance "Chair de Poule"
 
 *   **Zéro Létalité :** Les enfants ne meurent pas. Si un Chasseur accumule trop de peur, il s'enfuit en courant chez lui ou est capturé pour faire des corvées.
@@ -70,14 +80,14 @@ Si les joueurs n'interviennent pas, voici ce qui se passe dans le quartier :
 
 ## 👾 Les Menaces
 
-### Mme Jenkins (Le Monstre)
-**Motivation :** Sorcière (Posséder et contrôler les enfants pour en faire des serviteurs).
+### Mme Jenkins ( Sorcière )
+**Motivation :**   ( Reine : Posséder et contrôler les enfants pour en faire des serviteurs).
 Mme Jenkins est la vieille voisine un peu grincheuse qui passe son temps à surveiller sa pelouse. En réalité, elle attire les enfants chez elle avec des cookies magiques pour les enfermer dans sa cave et les remplacer par des Changelins parfaits. Ces derniers lui ramènent leur argent de poche la nuit.
 
 *   **Ténacité (Blessures) :** 5 points
 *   **Armure :** 0
 *   **Faiblesses :** 
-    *   *Tournée en ridicule :* Si les Chasseurs lui font une farce humiliante (ex: un coussin péteur magique, lui jeter de la bave de crapaud sur la tête), elle perd ses moyens et sa magie s'affaiblit.
+    *   *Tournée en ridicule :* Si les Chasseurs lui font une farce humiliante (ex: un coussin péteur, un verre baveur), elle perd ses moyens et sa magie s'affaiblit.
     *   *Détruire son grimoire :* Son livre de recettes magiques, caché dans sa cuisine. Si on le brûle ou le déchire, tous les Changelins redeviennent du pain d'épice et les enfants hypnotisés se réveillent.
 *   **Attaques & Manœuvres :**
     *   *Autorité Hypnotique :* Elle fronce les sourcils et ordonne d'une voix perçante. Les enfants doivent lancer **2d6 + Cool** pour résister.
@@ -87,7 +97,7 @@ Mme Jenkins est la vieille voisine un peu grincheuse qui passe son temps à surv
     *   *Le Martinet Magique :* (1 Frousse, allonge) Un martinet qui vole tout seul et fustige les fesses des enfants désobéissants.
 
 ### Les Changelins (Sbires)
-**Motivation :** Exécuter les ordres de la sorcière et tromper les parents.
+**Motivation :** ( Bras droit : Remplacer les enfants kidnappés )
 Créés à partir de bonshommes de pain d'épice géants dorés au four, ils ressemblent trait pour trait aux enfants kidnappés mais sont vêtus de vêtements impeccables, coiffés avec une raie sur le côté, et n'ont aucune personnalité à part être d'une politesse agaçante. Leur rôle principal est de récolter l'argent de poche offert par les parents ravis et de le rapporter la nuit à Mme Jenkins dans son grenier.
 
 *   **Ténacité (Blessures) :** 3 points
@@ -98,29 +108,29 @@ Créés à partir de bonshommes de pain d'épice géants dorés au four, ils res
 
 ## 📍 Les Lieux
 
-### La Maison de Mme Jenkins (Le Laboratoire de la Sorcière)
+### La Maison de Mme Jenkins ( Laboratoire : créer des sorts et maléfices)
 Une petite maison de banlieue banale avec des nains de jardin un peu effrayants sur la pelouse. 
 *   **À l'intérieur :** Ça sent le chou bouilli et les vieux gâteaux. C'est là que se trouve le grimoire secret de Mme Jenkins, camouflé au milieu de ses livres de recettes de cuisine traditionnelles.
 *   **La nuit :** Si on espionne par la fenêtre de la cuisine, on peut voir des enfants enchaînés à de petits boulets en plastique en train de frotter le parquet ou de trier des chaussettes sales par couleur. On peut aussi apercevoir de nuit les Changelins escalader le treillis de glycine sur le mur extérieur pour se faufiler dans le grenier avec leurs sacs de pièces.
 
-### Le Grenier de Mme Jenkins (Le Butin de la Sorcière)
+### Le Grenier de Mme Jenkins (Planque : Le Butin de la Sorcière)
 C'est ici que Mme Jenkins entasse tout l'argent de poche récupéré par ses sbires. Il y a des piles de pièces, des tirelires de toutes les couleurs et des billets froissés dissimulés dans de vieilles boîtes à biscuits poussiéreuses. 
 *   **Accès depuis l'extérieur :** Le grenier est directement accessible de l'extérieur sans entrer dans la maison. Les Chasseurs peuvent y monter en grimpant dans le grand chêne du jardin ou en escaladant le solide treillis de glycine le long de la façade. Une petite lucarne entrouverte permet de s'y faufiler discrètement. C'est le lieu d'observation parfait, et l'endroit idéal pour dérober le trésor de la sorcière !
 
-### Le Sous-sol (La Prison des Enfants)
+### Le Sous-sol ( Prison : La Prison des Enfants)
 La cave de Mme Jenkins, accessible par une trappe verrouillée dans l'abri de jardin. Elle y garde la clé dans sa poche de tablier.
 *   Une dizaine d'enfants y sont enfermés. Ils ne sont pas maltraités physiquement mais s'ennuient à mourir et doivent préparer des repas répugnants (soupe de bave de crapaud, purée de limaces) pour nourrir Mme Jenkins.
 
-### La Cabane de Léo (Lieu de recherche / Repaire Occulte)
+### La Cabane de Léo (Plaque tournante : Repaire Occulte)
 Une cabane en bois construite au fond du jardin de l'un des Chasseurs. C'est le sanctuaire de Léo, le grand frère adolescent d'un des joueurs.
 *   **Atmosphère :** Remplie d'affiches de rock gothique, de BD d'épouvante et de bougies parfumées. C'est un endroit calme pour étudier les indices à l'abri des adultes.
 
-### La Bibliothèque Municipale (Lieu de recherche)
+### La Bibliothèque Municipale ( Plaque tournante : Lieu de recherche)
 Un grand bâtiment en pierre un peu poussiéreux, idéal pour faire des recherches sur le passé de la ville.
 *   **Atmosphère :** Silencieuse et solennelle, avec de hauts rayonnages. Il y a un rayon "Légendes et Folklore" et des archives locales (vieux journaux sur microfilms).
 *   **La nuit :** Fermée à double tour, mais on peut s'y faufiler par la lucarne des toilettes si l'un des Chasseurs est assez svelte pour s'y glisser.
 
-### Le Magasin "Farces & Attrapes du Coin" (Le Carrefour)
+### Le Magasin "Farces & Attrapes du Coin" (Carrefour : Farce et attrapes )
 Tenu par M. Jolivet, un vieux monsieur farceur qui adore les enfants. C'est la cache d'armes idéale pour nos petits Chasseurs !
 *   On y trouve des coussins péteurs, du poil à gratter, des chewing-gums à l'ail, et des lunettes à double foyer rigolotes. 
 *   *Manœuvre spéciale du magasin :* Les joueurs peuvent y acheter (avec leur argent de poche) des objets de farces et attrapes. Utiliser un de ces objets sur Mme Jenkins ou sur un Changelin permet de lancer un jet sous **Bizarre** pour les déstabiliser ou les ridiculiser (ce qui active leur faiblesse !).
@@ -129,10 +139,10 @@ Tenu par M. Jolivet, un vieux monsieur farceur qui adore les enfants. C'est la c
 
 ## 👥 Les Figurants
 
-*   **Julien (La Victime) :** L'ami turbulent qui a été remplacé. Le vrai Julien est dans la cave de la sorcière, forcé de masser ses pieds crochus (ce qu'il trouve absolument dégoûtant).
-*   **M. Jolivet (L'Innocent) :** Le gérant du magasin de farces et attrapes. Toujours prêt à faire une blague, il peut donner des conseils insolites aux enfants ou leur offrir un gadget s'ils lui racontent une bonne histoire.
-*   **Léo (Le grand frère gothique - Aide : Traduire et Expliquer la Menace) :** Âgé de 15 ans, il s'habille tout en noir et prétend être un grand sorcier occulte. Bien qu'il affecte un air détaché et blasé, il adore aider les plus jeunes. Il peut traduire le vieux grimoire incompréhensible de Mme Jenkins ou expliquer ce qu'est un Changelin... à condition que les Chasseurs fassent sa corvée de vaisselle ou lui ramènent des réglisses noires !
-*   **Mme Pinson (La Bibliothécaire - Aide : Trouver des archives historiques) :** Une dame sévère qui adore le silence absolu mais qui a un faible pour les enfants curieux. Si les Chasseurs lui parlent poliment et chuchotent, elle peut retrouver des coupures de presse révélant que Mme Jenkins vit dans le quartier depuis 80 ans sans vieillir, ou un vieux livre sur les sorcières de pain d'épice.
+*   **Julien ( Victime : se fait capturer ) :** L'ami turbulent qui a été remplacé. Le vrai Julien est dans la cave de la sorcière, forcé de masser ses pieds crochus (ce qu'il trouve absolument dégoûtant).
+*   **M. Jolivet ( L'Innocent : faire rire son entourage ) :** Le gérant du magasin de farces et attrapes. Toujours prêt à faire une blague, il peut donner des conseils insolites aux enfants ou leur offrir un gadget s'ils lui racontent une bonne histoire.
+*   **Léo (Assistant : Traduire et Expliquer la Menace) :** Âgé de 15 ans, il s'habille tout en noir et prétend être un grand sorcier occulte. Bien qu'il affecte un air détaché et blasé, il adore aider les plus jeunes. Il peut traduire le vieux grimoire incompréhensible de Mme Jenkins ou expliquer ce qu'est un Changelin... à condition que les Chasseurs fassent sa corvée de vaisselle ou lui ramènent des réglisses noires !
+*   **Mme Pinson (Détective : Trouver des archives historiques) :** Une dame sévère qui adore le silence absolu mais qui a un faible pour les enfants curieux. Si les Chasseurs lui parlent poliment et chuchotent, elle peut retrouver des coupures de presse révélant que Mme Jenkins vit dans le quartier depuis 80 ans sans vieillir, ou un vieux livre sur les sorcières de pain d'épice.
 
 ---
 
