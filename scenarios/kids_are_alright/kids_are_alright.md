@@ -6,11 +6,11 @@ Ici, pas de violence sanglante ni de danger mortel : les monstres sont grotesque
 
 ---
 
-## club des mystéres
+## Club des mystères
 
-Les chasseurs font parti du *"club des mystéres"* ils enquétent en secret sur des bizarrerie qui se passent dans le quartier. Pour mettre en place le groupe, voici des questions a poser:
+Les chasseurs font parti du *"club des mystères"* ils enquêtent en secret sur des bizarrerie qui se passent dans le quartier. Pour mettre en place le groupe, voici des questions a poser:
 
-* Quel est le dernier mystére sur lequel vous avez enquété
+* Quel est le dernier mystère sur lequel vous avez enquêté ?
 * Comment l'avez vous résolu ?
 * Comment **Julien** y a participer ?
 
@@ -47,7 +47,7 @@ Remplacez les blessures physiques par de la **Frousse** (7 cases) :
 
 ## 🎯 L'Accroche
 
-**Julien**, un des pires chenapans du quartier (toujours à faire des blagues, à rouler dans la boue et à désobéir), est devenu du jour au lendemain un **enfant parfait**. Il porte un costume impeccable, dit *"Bonjour Madame, bonjour Monsieur"*, fait ses devoirs en avance et range sa chambre sans qu'on lui demande. 
+**Julien**, un des pires chenapans du quartier (toujours à faire des blagues, à se rouler dans la boue et à désobéir), est devenu du jour au lendemain un **enfant parfait**. Il porte un costume impeccable, dit *"Bonjour Madame, bonjour Monsieur"*, fait ses devoirs en avance et range sa chambre sans qu'on lui demande. 
 Ses parents sont absolument ravis et ne soupçonnent rien. Ils lui donnent même de grosses sommes d'argent de poche pour le récompenser ! Mais pour les Chasseurs, c'est très suspect : chaque nuit, Julien s'éclipse discrètement pour aller apporter cet argent à la sorcière dans son grenier.
 
 
@@ -92,7 +92,7 @@ Mme Jenkins est la vieille voisine un peu grincheuse qui passe son temps à surv
 *   **Attaques & Manœuvres :**
     *   *Autorité Hypnotique :* Elle fronce les sourcils et ordonne d'une voix perçante. Les enfants doivent lancer **2d6 + Cool** pour résister.
         *   *10+ :* Résiste parfaitement et gagne un bonus de +1 pour sa prochaine action contre elle.
-        *   *7-9 :* Résiste, mais ressent une forte envie d'obéir. (Prend +1 Frousse s'il refuse).
+        *   *7-9 :* Résiste, mais prend +1 Frousse. 
         *   *Échec :* Le Chasseur tombe sous son charme hypnotique et doit obéir à ses ordres (ranger sa chambre, faire la vaisselle) jusqu'à ce qu'un ami le réveille.
     *   *Le Martinet Magique :* (1 Frousse, allonge) Un martinet qui vole tout seul et fustige les fesses des enfants désobéissants.
 
@@ -102,6 +102,7 @@ Créés à partir de bonshommes de pain d'épice géants dorés au four, ils res
 
 *   **Ténacité (Blessures) :** 3 points
 *   **Armure :** 0
+*  *Appel à l'aide*: Il semble ouvrir la bouche sans aucun son qui sort, cependant c'est un appel a base d’ultrason que seul les autres Changelins entendent. Les chiens du quartier sont affolé.
 *   *Effet de défaite :* Lorsqu'un Changelin perd tous ses points de Ténacité (par exemple en étant bousculé, arrosé d'eau ou démasqué), il tombe par terre et se transforme instantanément en un simple et délicieux biscuit en pain d'épice géant (que les joueurs peuvent manger pour récupérer de la Frousse !).
 
 ---
@@ -115,11 +116,11 @@ Une petite maison de banlieue banale avec des nains de jardin un peu effrayants 
 
 ### Le Grenier de Mme Jenkins (Planque : Le Butin de la Sorcière)
 C'est ici que Mme Jenkins entasse tout l'argent de poche récupéré par ses sbires. Il y a des piles de pièces, des tirelires de toutes les couleurs et des billets froissés dissimulés dans de vieilles boîtes à biscuits poussiéreuses. 
-*   **Accès depuis l'extérieur :** Le grenier est directement accessible de l'extérieur sans entrer dans la maison. Les Chasseurs peuvent y monter en grimpant dans le grand chêne du jardin ou en escaladant le solide treillis de glycine le long de la façade. Une petite lucarne entrouverte permet de s'y faufiler discrètement. C'est le lieu d'observation parfait, et l'endroit idéal pour dérober le trésor de la sorcière !
+*   **Accès depuis l'extérieur :** Le grenier est directement accessible de l'extérieur sans entrer dans la maison. Les Chasseurs peuvent y monter en escaladant le solide treillis de glycine le long de la façade. Une petite lucarne entrouverte permet de s'y faufiler discrètement. C'est le lieu d'observation parfait, et l'endroit idéal pour dérober le trésor de la sorcière !
 
 ### Le Sous-sol ( Prison : La Prison des Enfants)
 La cave de Mme Jenkins, accessible par une trappe verrouillée dans l'abri de jardin. Elle y garde la clé dans sa poche de tablier.
-*   Une dizaine d'enfants y sont enfermés. Ils ne sont pas maltraités physiquement mais s'ennuient à mourir et doivent préparer des repas répugnants (soupe de bave de crapaud, purée de limaces) pour nourrir Mme Jenkins.
+*   Une dizaine d'enfants y sont enfermés. Ils ne sont pas maltraités physiquement mais sont sous l'effet de la terreur hypnotique et doivent préparer des repas répugnants (soupe de bave de crapaud, purée de limaces) pour nourrir Mme Jenkins.
 
 ### La Cabane de Léo (Plaque tournante : Repaire Occulte)
 Une cabane en bois construite au fond du jardin de l'un des Chasseurs. C'est le sanctuaire de Léo, le grand frère adolescent d'un des joueurs.
