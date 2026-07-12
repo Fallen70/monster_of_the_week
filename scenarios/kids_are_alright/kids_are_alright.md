@@ -133,3 +133,24 @@ Tenu par M. Jolivet, un vieux monsieur farceur qui adore les enfants. C'est la c
 *   **M. Jolivet (L'Innocent) :** Le gérant du magasin de farces et attrapes. Toujours prêt à faire une blague, il peut donner des conseils insolites aux enfants ou leur offrir un gadget s'ils lui racontent une bonne histoire.
 *   **Léo (Le grand frère gothique - Aide : Traduire et Expliquer la Menace) :** Âgé de 15 ans, il s'habille tout en noir et prétend être un grand sorcier occulte. Bien qu'il affecte un air détaché et blasé, il adore aider les plus jeunes. Il peut traduire le vieux grimoire incompréhensible de Mme Jenkins ou expliquer ce qu'est un Changelin... à condition que les Chasseurs fassent sa corvée de vaisselle ou lui ramènent des réglisses noires !
 *   **Mme Pinson (La Bibliothécaire - Aide : Trouver des archives historiques) :** Une dame sévère qui adore le silence absolu mais qui a un faible pour les enfants curieux. Si les Chasseurs lui parlent poliment et chuchotent, elle peut retrouver des coupures de presse révélant que Mme Jenkins vit dans le quartier depuis 80 ans sans vieillir, ou un vieux livre sur les sorcières de pain d'épice.
+
+---
+
+## 🎵 Ambiance Musicale & Références
+
+Pour accompagner la partie avec une bande-son "spooky" mais amusante, voici quelques suggestions à diffuser pendant la session :
+
+### 1. Thèmes iconiques (Pour poser l'ambiance)
+*   **Générique de *Chair de Poule* (Goosebumps TV Theme) - Jack Lenz :** Le synthétiseur mystérieux et le chien qui aboie, parfait pour l'introduction et la présentation du mystère.
+*   **Bande originale de *Coraline* - Bruno Coulais (ex: "Exploring", "Installation") :** Des mélodies mystiques avec des boîtes à musique et des voix enfantines étranges, parfait pour explorer la maison ou le sous-sol de Mme Jenkins.
+*   **Bande originale de *Beetlejuice* - Danny Elfman :** Cuivres excentriques et rythmes bondissants, idéal pour caractériser Mme Jenkins et sa folie douce.
+
+### 2. Suspense & Enquête (Recherche d'indices et exploration)
+*   **Bande originale de *Stranger Things* - Kyle Dixon & Michael Stein (ex: "Kids", "Biking to School") :** Du synthwave rétro parfait pour les déplacements à vélo et les enquêtes dans le quartier résidentiel.
+*   **Bande originale de *Harry Potter* - John Williams (ex: "The Knight Bus", "Double Trouble") :** Des thèmes orchestraux farfelus et magiques, très adaptés aux objets bizarres du magasin de farces et attrapes.
+*   **Musique de la série de jeux *Professeur Layton* (ex: "Curious Village Theme") :** Pour les scènes de réflexion, de fouille de la bibliothèque municipale, ou de traduction du grimoire avec Léo.
+
+### 3. Face-à-face & Action (Bousculades et fuites !)
+*   **Thème principal de *Luigi's Mansion* (version sifflotée ou instrumentale) :** Drôle, sautillant et un poil effrayant, parfait pour s'infiltrer la nuit avec des lampes torches.
+*   **Générique de *Scooby-Doo* (ou instrumental de poursuite) :** Pour les moments de poursuite loufoque ou pour échapper aux Changelins qui essaient d'attraper les Chasseurs.
+
