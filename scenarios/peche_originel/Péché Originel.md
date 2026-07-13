@@ -9,6 +9,7 @@ Faire jouer un one shot exploitant la variante lance d'os pour mettre en scène 
 - Une foret sacrée et interdite abrite l'arbre de la connaissance
 - Un membre **Gog** transgresse l'interdit.
 - Corruption de l'esprit de la foret pour devenir **Magog**
+- Création du médaillon en obsidienne a tête d'ours
 
 ## Scènes
 
