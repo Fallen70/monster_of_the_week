@@ -14,13 +14,13 @@ Faire jouer un one shot exploitant la variante lance d'os pour mettre en scène 
 ## Scènes
 
 - Séance de mise en transe amérindienne
-- Scène de présentation du monde ydillique
+- Scène de présentation du monde idyllique
 - Attaque de l'esprit disparition de **Gog**
 - **Gog** dévore les fruits et corromps l'esprit
 
 ## A faire
 - Préparer des fiches de perso ( l'autre et le spirite )
-- une tribu de l'ours
+- [x] une tribu de l'ours
 
 
 
