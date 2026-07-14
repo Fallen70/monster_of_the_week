@@ -1,5 +1,8 @@
-> [!NOTE DE JEU]
-> Vous ne faite pas parti de cette tribu, vous êtes autre chose. Une créature de la nuit, vous préférez l'obscurité à la lumière. La tribu vous a accepté enfant et vous avez appris a vivre parmi eux.
+> [!NOTE]
+> Vous ne faite pas parti de cette tribu, vous êtes autre chose. 
+> Une créature de la nuit, vous préférez l'obscurité à la lumière. 
+> La tribu vous a accepté enfant et vous avez appris a vivre parmi eux.
+
 # L'autre
 - Nom: #TBD 
 - Apparence: #TBD
