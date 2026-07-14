@@ -11,7 +11,7 @@
 - **Coriace**: -1
 - **Bizarre**: +3
 ## Blessures
-`[ ][ ][ ]|[ ][ ][ ][ ]`
+`[ ][ ][ ]|[ ][ ][ ][ ]`   
 *instable* `[ ]`
 ## Faveur ancestrale ( Chance )
 `[ ][ ][ ]`
