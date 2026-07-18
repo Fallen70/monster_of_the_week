@@ -4,7 +4,7 @@
 > Ce scénario **ne suit pas la structure classique** (les PJ ne sont pas des Chasseurs modernes).
 > Ils sont des membres de la **Tribu de l'Ours**, témoins et acteurs d'un méfait à réparer.
 
-**Concept rapide** : Gog, enfant de la tribu, a transgressé l'interdit de la Forêt Sacrée et dévoré les fruits de l'Arbre de la Connaissance. Ce faisant, il a corrompu l'Esprit de la Forêt, qui devient Magog — une force de destruction qui menaçe la vallée. Les PJ doivent comprendre ce qui s'est passé, retrouver Gog, et réparer le lien brisé avec l'Esprit de l'Ours avant que la vallée ne soit perdue.
+**Concept rapide** : Gog, enfant de la tribu, a transgressé l'interdit de la Forêt Sacrée et dévoré les fruits de l'Arbre de la Connaissance. Ce faisant, il a corrompu l'Esprit de la Forêt, qui devient Magog — une force de destruction qui menace la vallée. Les PJ doivent comprendre ce qui s'est passé, retrouver Gog, et réparer le lien brisé avec l'Esprit de l'Ours avant que la vallée ne soit perdue.
 
 **L'Accroche** : La vallée change. Le gibier fuit. Les rêves des anciens sont hantés de silhouettes sombres. L'esprit de l'Ours n'a pas répondu au dernier rituel. Et Gog — le jeune chasseur — a disparu depuis trois nuits.
 
@@ -37,20 +37,39 @@
 
 ---
 
-## 2. Le Compte à Rebours — Vers la Corruption Irréversible
+## 2. Sbires
 
-> Les étapes avancent si les PJ n'agissent pas ou si Gog reste dans la forêt.
+*   **Gog** *(Renfield — pousser les victimes vers Magog)* : Jeune chasseur de la tribu, curieux jusqu'à l'imprudence. Désormais à moitié corrompu, il ne souffre pas — il *attire*. Il croit sincèrement avoir découvert quelque chose de merveilleux. Son arc de rédemption est le cœur émotionnel du scénario.
+    *   **Santé** : 4 harm — **Armure** : 0
+    *   **Attaque** : *Appel de Magog* (0 harm, proche, psychologique — force une action sous emprise ou un déplacement vers la forêt).
 
-*   **Le Jour** : Les animaux de la vallée commencent à fuir vers les collines. Un chamois est retrouvé mort, les yeux noirs comme du charbon. Le rituel du matin à l'Esprit de l'Ours ne produit aucune réponse.
-*   **Les Ombres** : La lisière de la Forêt Sacrée semble avoir avancé d'un pas depuis hier. Un enfant de la tribu raconte avoir vu "une ombre avec le visage de Gog" lui faire signe d'approcher. Les anciens commencent à murmurer : *le méfait*.
-*   **Le Crépuscule** : La sève noire suinte de trois arbres à la lisière. Un chasseur qui s'en est approché revient hagard, les yeux fuyants, et refuse de parler. La nuit suivante, il disparaît.
-*   **La Nuit** : Magog manifeste Gog à la lisière — visible, vivant, mais les yeux vides. Il appelle ses proches par leur nom. Deux membres de la tribu sont entrés dans la forêt. La Gardienne du Feu tombe en transe et prophétise : *"Si l'arbre n'est pas apaisé avant la prochaine lune, la vallée devient la forêt."*
-*   **Minuit Approche** : La forêt avance visiblement. Les arbres bougent la nuit. Le feu sacré de la tribu s'éteint seul. L'Esprit de l'Ours ne peut plus être contacté — le lien est presque brisé. Gog est le dernier espoir.
-*   **Minuit** : La vallée est engloutie. La tribu est dispersée ou corrompue. Magog — la Forêt Blessée — s'étend sur des jours de marche. Le médaillon est perdu. La mémoire du méfait disparaît, condamnant d'autres à le répéter.
+*   **Une Bête Corrompue** *(Fléau — submerger et détruire)* : Un animal de la vallée — chamois, loup ou sanglier — dont les yeux sont devenus noirs comme de la sève solidifiée. Il n'attaque plus par instinct mais par *volonté de Magog*, ciblant en priorité ceux qui portent une protection spirituelle. Tuer la bête ne la guérit pas : une autre corrompra à sa place tant que la source n'est pas éteinte.
+    *   **Santé** : 6 harm — **Armure** : 1
+    *   **Attaque** : *Morsure corrompue* (3 harm, contact, volatile — laisse une marque noire qui pique au contact de la forêt).
+
+*   **L'Ours Corrompu** *(Bête — tout détruire)* : L'animal totémique de la tribu, retourné contre elle. Immense, les flancs suintant de sève noire, incapable de mourir par les seules armes. C'est lui qui porte la **Pierre de Magog** dans sa poitrine — voir §6. Le tuer par la violence pure aggrave la corruption. Seul un rituel de chasse accompli avec respect peut l'apaiser avant que la pierre ne soit extraite.
+    *   **Santé** : 10 harm — **Armure** : 2 (réduite à 0 si le rituel de chasse est accompli correctement)
+    *   **Attaque** : *Frappe de la sève* (4 harm, contact, zone — tous les PJ à portée reçoivent 1 harm psychologique supplémentaire).
+    *   **Spécial** : Toute attaque directe sans rituel préalable fait avancer le Compte à Rebours d’un cran.
 
 ---
 
-## 3. Lieux & Indices
+## 3. Le Compte à Rebours — Vers la Corruption Irréversible
+
+> Les étapes avancent si les PJ n'agissent pas ou si Gog reste dans la forêt.
+
+| Étape | Événement |
+| --- | --- |
+| **Le Jour** | Les animaux de la vallée commencent à fuir vers les collines. Un chamois est retrouvé mort, les yeux noirs comme du charbon. Le rituel du matin à l'Esprit de l'Ours ne produit aucune réponse. |
+| **Les Ombres** | La lisière de la Forêt Sacrée semble avoir avancé d'un pas depuis hier. Un enfant de la tribu raconte avoir vu "une ombre avec le visage de Gog" lui faire signe d'approcher. Les anciens commencent à murmurer : *le méfait*. |
+| **Le Crépuscule** | La sève noire suinte de trois arbres à la lisière. Un chasseur qui s'en est approché revient hagard, les yeux fuyants, et refuse de parler. La nuit suivante, il disparaît. |
+| **La Nuit** | Magog manifeste Gog à la lisière — visible, vivant, mais les yeux vides. Il appelle ses proches par leur nom. Deux membres de la tribu sont entrés dans la forêt. La Gardienne du Feu tombe en transe et prophétise : *«Si l'arbre n'est pas apaisé avant la prochaine lune, la vallée devient la forêt.»* |
+| **Minuit Approche** | La forêt avance visiblement. Les arbres bougent la nuit. Le feu sacré de la tribu s'éteint seul. L'Esprit de l'Ours ne peut plus être contacté — le lien est presque brisé. Gog est le dernier espoir. |
+| **Minuit** | La vallée est engloutie. La tribu est dispersée ou corrompue. Magog — la Forêt Blessée — s'étend sur des jours de marche. Le médaillon est perdu. La mémoire du méfait disparaît, condamnant d'autres à le répéter. |
+
+---
+
+## 4. Lieux & Indices
 
 *   **La Vallée Idyllique — le Camp de la Tribu** *(Plaque tournante — révéler des informations)* :
     Chaleur des feux, odeur de cuir tanné et de graisse d'ours. C'est ici que tout commence — les rumeurs, les anciens inquiets, les traces d'absence de Gog. Les PJ y trouvent les premiers signes de l'anomalie et peuvent interroger la tribu.
@@ -59,25 +78,20 @@
     La frontière entre la vallée et la Forêt Sacrée. L'air y est plus froid d'un coup. Les branches des arbres du bord sont tordues vers l'intérieur, comme aspirées. Indices : traces de pas menant à l'intérieur (et pas de traces en sortant), sève noire sur les troncs, plumes noires des oiseaux du coin.
 
 *   **La Forêt Sacrée — l'Intérieur** *(Dédale — embrouiller et séparer)* :
-    Dès qu'on y pénètre, les repères disparaissent. Le sol absorbe les sons. Les arbres ressemblent tous aux mêmes. La lumière est verdâtre, même de nuit. Gog est quelque part à l'intérieur, immobile, adossé à l'Arbre de la Connaissance. Des visions de sa transgression rejouent en boucle autour de lui.
+    Dès qu'on y pénètre, les repères disparaissent. Le sol absorbe les sons. Les arbres se ressemblent tous. La lumière est verdâtre, même de nuit. Gog est quelque part à l'intérieur, immobile, adossé à l'Arbre de la Connaissance. Des visions de sa transgression rejouent en boucle autour de lui.
 
 *   **L'Arbre de la Connaissance** *(Portail infernal — engendrer le mal)* :
     Au cœur de la forêt. Immense, noir de sève, ses fruits encore partiellement dévorés pendus à ses branches. C'est ici que se joue le rituel de réparation. La présence de Magog y est maximale. Le médaillon en obsidienne réagit à la présence de l'Arbre.
 
 ---
 
-## 4. Personnages
+## 5. Figurants (Bystanders)
 
-### PJ suggérés (variante Lance d'Os)
-
-| Rôle | Archétype |
-|---|---|
-| **L'Autre** | Celui/celle qui n'est pas du clan — adopté·e, étranger·ère, métisse de tribu — a une relation particulière à l'interdit |
-| **Le/La Spirite** | Le/la chamane en devenir — gardien·ne du lien avec les esprits — le premier à sentir que quelque chose ne va plus |
-
-### Sbires & Figurants
-
-*   **Gog** *(Renfield — pousser les victimes vers Magog)* : Jeune chasseur de la tribu, curieux jusqu'à l'imprudence. Désormais à moitié corrompu, il ne souffre pas — il *attire*. Il croit sincèrement avoir découvert quelque chose de merveilleux. Son arc de rédemption est le cœur émotionnel du scénario.
+> [!NOTE]
+> **PJ suggérés — variante Lance d'Os**
+> Ce scénario est conçu pour deux archétypes spécifiques :
+> - **L'Autre** : Celui/celle qui n'est pas du clan — adopté·e, étranger·ère, métisse de tribu — a une relation particulière à l'interdit.
+> - **Le/La Spirite** : Le/la chamane en devenir — gardien·ne du lien avec les esprits — le premier à sentir que quelque chose ne va plus.
 
 *   **La Gardienne du Feu** *(Témoin — révéler des informations)* : Vieille, aveugle d'un œil, elle sait mais ne dit pas tout. Elle attend que les PJ posent les bonnes questions. Elle détient la mémoire du dernier méfait similaire — il y a trois générations.
 
@@ -87,7 +101,7 @@
 
 *   **L'Esprit de l'Ours** *(présence, pas personnage)* : Ne parle plus directement. Se manifeste en rêve ou via le médaillon. Si le rituel est amorcé correctement, il guide les PJ vers la solution.
 
-### Figurants supplémentaires (sans rôle mécanique)
+**Figurants supplémentaires (sans rôle mécanique)**
 - Aur, le tanneur borgne
 - Séna, la jeune mère au nourrisson
 - Toch, le vieux chasseur qui tousse
@@ -96,7 +110,7 @@
 
 ---
 
-## 5. Le Médaillon en Obsidienne — Artefact Central & Scène de Création
+## 6. Le Médaillon en Obsidienne — Artefact Central & Scène de Création
 
 > **Inspiration** : Dans *Princesse Mononoke*, la corruption du dieu-sanglier Nago se solidifie en *tatari dama* — des boules de haine et de douleur qui sortent de son corps et empoisonnent tout ce qu'elles touchent. Ici, c'est la **pierre de Magog** : la corruption s'est cristallisée dans le ventre d'une bête.
 
@@ -117,7 +131,7 @@ Une bête de la vallée a été corrompue par Magog — un grand ours ou un auro
 Elle ne taille pas la pierre. Elle la *contraint* — par le chant, par le feu, par le sang. La forme de tête d'ours n'est pas sculptée, elle *émerge* de la pierre comme si elle avait toujours été là, attendant d'être vue. C'est la haine de Magog retournée en regard de l'Ours.
 
 **Usages narratifs du médaillon une fois forgé :**
-- Vibre et chauffe à la proximité de la corruption — compass vers Gog et vers l'Arbre
+- Vibre et chauffe à la proximité de la corruption — boussole vers Gog et vers l'Arbre
 - Permet de contacter l'Esprit de l'Ours en rituel (la haine retournée *appelle* l'ours)
 - Élément indispensable du rituel de réparation final — c'est le *sceau* entre le méfait et son pardon
 - S'il se brise pendant le rituel → le prix payé a été trop élevé, ou trop faible
@@ -125,7 +139,7 @@ Elle ne taille pas la pierre. Elle la *contraint* — par le chant, par le feu, 
 
 ---
 
-## 6. Résolutions Possibles
+## 7. Résolutions Possibles
 
 | Issue | Condition | Conséquence |
 |---|---|---|
