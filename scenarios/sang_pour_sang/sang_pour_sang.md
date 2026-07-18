@@ -184,7 +184,7 @@ Il connaît le rituel, la faiblesse de Valdrich, et l'emplacement de la cave. Il
 ---
 
 ### Dre Camille Voss, Interne à l'hôpital
-*Traître — Motivation : trahir les gens*
+*Innocnet — Motivation :survivre*
 
 > Trente ans, cernes permanentes, l'air épuisé de quelqu'un qui fait des nuits doubles. Elle évite les conversations sur les stocks.
 
