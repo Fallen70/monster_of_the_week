@@ -19,8 +19,9 @@ Faire jouer un one shot exploitant la variante lance d'os pour mettre en scène 
 - **Gog** dévore les fruits et corromps l'esprit
 
 ## A faire
-- Préparer des fiches de perso ( l'autre et le spirite )
+- [x]  Préparer des fiches de perso ( l'autre et le spirite )
 - [x] une tribu de l'ours
+
 
 
 

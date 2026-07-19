@@ -28,7 +28,8 @@ Lancez **+Bizarre** au lieu de **Coriace** lorsque vous **cassez la gueule a que
 ## Attaques naturelles
 - **Griffes** ( 3 dégâts, allonge )
 - **Absorption d'énergie** ( 1 dégât, personnel, absorption d’énergie )
-
+## Equipement
+3 Equipements vêtements compris
 
 
 
