@@ -84,7 +84,7 @@ Si les joueurs n'interviennent pas, voici ce qui se passe dans le quartier :
 **Motivation :**   ( Reine : Posséder et contrôler les enfants pour en faire des serviteurs).
 Mme Jenkins est la vieille voisine un peu grincheuse qui passe son temps à surveiller sa pelouse. En réalité, elle attire les enfants chez elle avec des cookies magiques pour les enfermer dans sa cave et les remplacer par des Changelins parfaits. Ces derniers lui ramènent leur argent de poche la nuit.
 
-*   **Ténacité (Blessures) :** 5 points
+*   **Blessures** :`[][][][][]`
 *   **Armure :** 0
 *   **Faiblesses :** 
     *   *Tournée en ridicule :* Si les Chasseurs lui font une farce humiliante (ex: un coussin péteur, un verre baveur), elle perd ses moyens et sa magie s'affaiblit.
@@ -93,14 +93,14 @@ Mme Jenkins est la vieille voisine un peu grincheuse qui passe son temps à surv
     *   *Autorité Hypnotique :* Elle fronce les sourcils et ordonne d'une voix perçante. Les enfants doivent lancer **2d6 + Cool** pour résister.
         *   *10+ :* Résiste parfaitement et gagne un bonus de +1 pour sa prochaine action contre elle.
         *   *7-9 :* Résiste, mais prend +1 Frousse. 
-        *   *Échec :* Le Chasseur tombe sous son charme hypnotique et doit obéir à ses ordres (ranger sa chambre, faire la vaisselle) jusqu'à ce qu'un ami le réveille.
+        *   *Échec :* Le Chasseur tombe sous son charme hypnotique et doit obéir à ses ordres (briquer sa cuisine, préparer ses repas) jusqu'à ce qu'un ami le réveille.
     *   *Le Martinet Magique :* (1 Frousse, allonge) Un martinet qui vole tout seul et fustige les fesses des enfants désobéissants.
 
 ### Les Changelins (Sbires)
 **Motivation :** ( Bras droit : Remplacer les enfants kidnappés )
 Créés à partir de bonshommes de pain d'épice géants dorés au four, ils ressemblent trait pour trait aux enfants kidnappés mais sont vêtus de vêtements impeccables, coiffés avec une raie sur le côté, et n'ont aucune personnalité à part être d'une politesse agaçante. Leur rôle principal est de récolter l'argent de poche offert par les parents ravis et de le rapporter la nuit à Mme Jenkins dans son grenier.
 
-*   **Ténacité (Blessures) :** 3 points
+*   **Blessures** :`[][][]`
 *   **Armure :** 0
 *  *Appel à l'aide*: Il semble ouvrir la bouche sans aucun son qui sort, cependant c'est un appel a base d’ultrason que seul les autres Changelins entendent. Les chiens du quartier sont affolé.
 *   *Effet de défaite :* Lorsqu'un Changelin perd tous ses points de Ténacité (par exemple en étant bousculé, arrosé d'eau ou démasqué), il tombe par terre et se transforme instantanément en un simple et délicieux biscuit en pain d'épice géant (que les joueurs peuvent manger pour récupérer de la Frousse !).
@@ -134,7 +134,7 @@ Un grand bâtiment en pierre un peu poussiéreux, idéal pour faire des recherch
 ### Le Magasin "Farces & Attrapes du Coin" (Carrefour : Farce et attrapes )
 Tenu par M. Jolivet, un vieux monsieur farceur qui adore les enfants. C'est la cache d'armes idéale pour nos petits Chasseurs !
 *   On y trouve des coussins péteurs, du poil à gratter, des chewing-gums à l'ail, et des lunettes à double foyer rigolotes. 
-*   *Manœuvre spéciale du magasin :* Les joueurs peuvent y acheter (avec leur argent de poche) des objets de farces et attrapes. Utiliser un de ces objets sur Mme Jenkins ou sur un Changelin permet de lancer un jet sous **Bizarre** pour les déstabiliser ou les ridiculiser (ce qui active leur faiblesse !).
+*   *Manœuvre spéciale du magasin :* Les joueurs peuvent y acheter (avec leur argent de poche) des objets de farces et attrapes. Utiliser un de ces objets sur Mme Jenkins ou sur un Changelin permet de lancer un jet sous **Bizarre** pour les déstabiliser ou les ridiculiser.
 
 ---
 
