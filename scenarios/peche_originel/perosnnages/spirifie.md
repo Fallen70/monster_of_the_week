@@ -29,5 +29,5 @@ Dans le monde des esprits, vous pouvez communiquez avec les esprits.
 ### Protection sacrée
 Si vous prenez le temps, vous pouvez préparer un endroit contre les influences maléfiques. Précisez contre quoi vous le protégez ( un type de monstre, un sortilège ). La cible ne peut pas traverser la protection ni influencer ceux qui qui se trouvent de l'autre côté. Le gardien vous informera du temps nécessaire en fonction de la taille de l'endroit. La protection dure jusqu'au lever de soleil suivant. Vous ne pouvez pas l'utiliser sur des personnes ou des objets, seulement sur des lieux.
 ## Equipement
-4 Equipements vêtements compris
+4 Equipements vêtements compris ( p 375 )
 
