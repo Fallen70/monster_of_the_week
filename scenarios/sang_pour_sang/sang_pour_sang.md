@@ -16,7 +16,7 @@ Une succession de corps décapités est retrouvée en ville. Les tabloïds en fo
 
 Deux factions de vampires s'affrontent pour le contrôle d'un trafic de sang. Des poches de sang sont détournées de l'hôpital local pour être revendues à des vampires qui cherchent à se nourrir discrètement.
 
-**La faction de Valdrich** — le monstre principal — cherche à accumuler des réserves massives pour un rituel ancien : libérer Gog, une entité primordiale jadis emprisonnée par des chamans humains. Ce rituel demande une quantité phénoménale de sang versé en un seul lieu, lors d'une nuit précise.
+**La faction de Valdrich** — le monstre principal — cherche à accumuler des réserves massives pour un rituel ancien : libérer Gog, une entité primordiale jadis emprisonnée par des chamans humains. Valdrich a récemment mis la main sur le "Sceau de Gog", un médaillon en forme de tête d'ours indispensable au rituel. Ce dernier demande une quantité phénoménale de sang versé en un seul lieu, lors d'une nuit précise.
 
 **La faction adverse**, menée par une vampiresse plus ancienne nommée Séraphine, sait ce que Valdrich prépare. Elle s'oppose au rituel — non par bonté, mais parce que la libération de Gog détruirait l'équilibre qui lui permet de vivre dans l'ombre depuis des siècles. Elle préfère la discrétion et cherche à éliminer Valdrich avant qu'il n'attire l'attention des chasseurs ou ne déclenche une catastrophe.
 
@@ -52,7 +52,7 @@ Les corps décapités sont les victimes de cette guerre inter-clans.
 - **Blessures** : 13
 - **Armure** : 1 (régénération vampirique passive)
 
-**Faiblesse (cruciale)** : Le sceau de Gog — un médaillon en obsidienne que Valdrich porte sur lui en permanence. C'est l'ancre du rituel et la source de son pouvoir amplifié. Si le médaillon est brisé avant minuit, Valdrich perd accès à ses pouvoirs de rituel et peut être tué normalement (feu, décapitation, pieu dans le cœur).
+**Faiblesse (cruciale)** : Le sceau de Gog — un médaillon en obsidienne (en forme de tête d'ours) que Valdrich porte sur lui en permanence. C'est l'ancre du rituel et la source de son pouvoir amplifié. Si le médaillon est brisé avant minuit, Valdrich perd accès à ses pouvoirs de rituel et peut être tué normalement (feu, décapitation, pieu dans le cœur). **Mais attention :** ce médaillon est en réalité la prison de Magog, l'alter ego de Gog. Le briser libérera cette autre entité !
 
 **Attaques** :
 - *Étreinte du prédateur* : 3 dégâts, portée contact, tag **brutal** — Valdrich saisit sa cible et la maintient. Sur 10+, il peut drainer (voir pouvoir).
@@ -112,7 +112,7 @@ Envoyée par Valdrich sur toute personne qui pose trop de questions. Elle peut a
 ---
 
 ### Les Nouveaux-nés forcés
-*Fléau — Motivation : créer le chaos et la confusion*
+*Sbire : Essaim — Motivation : consumer et détruire*
 
 > Des gens normaux aux yeux révulsés, la bouche ensanglantée. Ils grognent, titubent, et attaquent sans discrimination. Certains pleurent pendant qu'ils mordent.
 
@@ -184,7 +184,7 @@ Il connaît le rituel, la faiblesse de Valdrich, et l'emplacement de la cave. Il
 ---
 
 ### Dre Camille Voss, Interne à l'hôpital
-*Innocnet — Motivation :survivre*
+*Innocent : Témoin — Motivation : révéler des informations*
 
 > Trente ans, cernes permanentes, l'air épuisé de quelqu'un qui fait des nuits doubles. Elle évite les conversations sur les stocks.
 
@@ -226,7 +226,11 @@ Elle oppose Valdrich pour ses propres raisons. Elle n'est pas une alliée des ch
 
 ## Notes pour le Keeper
 
+**Le dilemme de l'Arc (Gog & Magog)** : Le médaillon en obsidienne est la prison de Magog. Si les chasseurs découvrent que c'est la faiblesse de Valdrich et le brisent, ils arrêtent le rituel de Gog mais libèrent Magog (ce qui déclenche l'étape "Crépuscule" de votre Arc). C'est un choix dramatique parfait que les chasseurs devront assumer !
+
 **Tension entre factions** : Jouez sur l'ambiguïté — les chasseurs peuvent penser que Séraphine est le monstre principal, ou que Théo les manipule. Laissez la confusion servir le rythme.
+
+**Rythme et Arc** : Notez que le "Minuit" de ce scénario (Gog se manifeste) correspond à l'étape "Coucher du soleil" de votre Arc de campagne global. Si les chasseurs échouent ici, la campagne bascule dans une nouvelle dimension cataclysmique.
 
 **Le rituel est daté** : Valdrich a besoin d'une nuit de nouvelle lune. Si les chasseurs sont assez rapides pour le trouver, ils peuvent l'empêcher avant la "Tombée de la nuit". Sinon, le chaos des nouveaux-nés devient le problème immédiat.
 
