@@ -29,3 +29,6 @@ La place centrale du village, avec marché fermier et fêtes saisonnières.
 - Connaissance du lieu hanté de la forêt par Elby
 - Montrer a Alice que sa fille est vivante
 - Prochaine cible **Rigstale** ou **Tilley**
+- cible identifiee Max Tilley
+- Violette liberee
+
