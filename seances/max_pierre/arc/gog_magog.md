@@ -19,6 +19,7 @@ Une alliance improbable entre des monstres et les humains a eu lieu a plusieurs 
 **Gog** a été scellé dans un autre plan et nécessite un long rituel pour le ramener.
 
 **Magog** a été scellé dans un médaillon en forme de tête d'ours sa première forme.
+Le médaillon devient incandescent à la pleine lune. Un rituel permet de marquer les monstres fidèles.
 
 # Compte a rebours
 
