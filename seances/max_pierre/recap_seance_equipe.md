@@ -50,3 +50,8 @@ Une loge de transpiration est placée au centre d'un cercle tracé à l’ocre r
 L'entrée de la loge est orientée à l'est. Les joueurs sont invité a porter des vêtements de cérémonie et abandonner leurs effets personnels.
 Après plusieurs heures dans la chaleur, les odeurs de sauge et de tabac vous envahissent.
 On vous offre le calumet en implorant le grand esprit d'être un guide dans votre rôle a jouer.
+
+#### Questions pour les joueurs
+- [[spirifie]] "La forêt sacrée est interdite, quel autre règle doit on respecter?"
+- [[autre]] "Qu'est ce que tu t'es permis à la faveur de la nuit?"
+

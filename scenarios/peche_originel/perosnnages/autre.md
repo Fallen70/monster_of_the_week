@@ -4,8 +4,8 @@
 > La tribu vous a accepté enfant et vous avez appris a vivre parmi eux.
 
 # L'autre
-- Nom: #TBD 
-- Apparence: #TBD
+- Nom:
+- Apparence:
 - Espèce: *Peuple de la nuit*
 ## Statistiques
 - **Charme** : 0
