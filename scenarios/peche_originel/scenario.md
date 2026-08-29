@@ -6,7 +6,7 @@
 
 **Concept** : **Gog**, un jeune membre de la tribu, a transgressé l'interdit de la Forêt Sacrée et dévoré les fruit de l'arbre de la connaissance. Ce faisant, il a corrompu **Mére Ourse**, qui devient **Magog** — une force de destruction qui menace la vallée. Les PJ doivent comprendre ce qui s'est passé, retrouver **Gog**, et réparer le lien brisé avec **Mére Ourse** avant que la vallée ne soit perdue.
 
-**L'Accroche** : La vallée change. Le gibier fuit. Les rêves des anciens sont hantés de silhouettes sombres. L'esprit de l'Ours n'a pas répondu au dernier rituel. Et **Gog** — le jeune chasseur — a disparu depuis son rite d'initiation.
+**L'Accroche** : La vallée change. Le gibier fuit. Les rêves des anciens sont hantés de silhouettes sombres. L'esprit de l'Ours n'a pas répondu au dernier rituel. Et **Gog** — le jeune chasseur — a disparu depuis plusieurs jours.
 
 ---
 ## Note de conception : Réparation plutôt que Destruction
@@ -20,10 +20,10 @@
 ---
 ## La Menace Principale — Corruption de l'arbre sacré
 
-*Phénomène : **Sortilège (Hex)*** — motivation : corrompre et faire pourrir l'environnement.
+***Phénomène** motivation : corrompre et faire pourrir l'environnement.
 
 *   **Nom** : Magog, Esprit de la foret corrompu
-*   **Type & Motivation** : Phénomène — *Sortilège* — corrompre et faire pourrir la vallée depuis l'intérieur
+*   **Type & Motivation** : Phénomène — corrompre et faire pourrir la vallée depuis l'intérieur
 *   **Nature** : Ce n'est pas une créature autonome. C'est une **blessure dans le tissu du monde**, née de la transgression de **Gog**. La corruption se manifeste comme une présence de ténèbres végétales : arbres qui saignent une sève noire, animaux aux yeux vides, visions cauchemardesques.
 *   **Faiblesse** : Le méfait doit être *reconnu, nommé et restitué*. **Gog** doit avouer sa transgression devant l'Esprit de l'Ours, et offrir un sacrifice volontaire (son sang, sa mémoire de la connaissance, ou sa vie). Le médaillon en obsidienne à tête d'ours est le **vecteur du rituel de réparation**.
 *   **Blessures** : Magog ne peut pas être blessé physiquement. Toute attaque directe contre la Forêt renforce la corruption.
@@ -36,7 +36,8 @@
 ---
 ## Sbires
 ### Gog *(Renfield — pousser les victimes vers Magog)* : 
-Jeune chasseur de la tribu, curieux jusqu'à l'imprudence. Désormais à moitié corrompu, il ne souffre pas. Il croit sincèrement avoir découvert quelque chose de merveilleux. Lors de son initiation il a consommé les fruits de l'arbre et corrompu l'esprit de la forêt.
+Jeune chasseur de la tribu, curieux jusqu'à l'imprudence. Désormais à moitié corrompu, il ne souffre pas. Il croit sincèrement avoir découvert quelque chose de merveilleux.Il a consommé les fruits de l'arbre et appris a corrompre l'esprit de la forêt.
+Il est persuadé d'avoir été guidé par une puissance supérieures, **Le créateur**.
 - **Blessure** : 7 
 - **Armure** : 0
 #### Attaques
@@ -54,6 +55,7 @@ Un animal de la vallée — chamois, loup ou sanglier — dont les yeux sont dev
 - **Armure** : 1
 #### Attaques
 - Morsure corrompue ( 2 Dégats, personnel ) laisse une marque noire qui pique au contact de la forêt.
+
 ###  **L'Ours Corrompu** *(Bête — tout détruire)* : 
 L'animal totémique de la tribu, retourné contre elle. Immense, les flancs suintant de sève noire. C'est lui qui porte la **Pierre de Magog** dans sa poitrine
 Seul un rituel de chasse accompli avec respect peut l'apaiser et la rendre plus facile a abattre.
@@ -68,8 +70,8 @@ Seul un rituel de chasse accompli avec respect peut l'apaiser et la rendre plus 
 | Étape               | Événement                                                                                                                                                                         |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Le Jour**         | Les animaux de la vallée commencent à fuir vers les collines. Un chamois est retrouvé mort, les yeux noirs comme du charbon.                                                      |
-| **Les Ombres**      | La lisière de la Forêt Sacrée semble avoir avancé d'un pas depuis hier. Un enfant de la tribu raconte avoir vu "une ombre avec le visage de **Gog**" lui faire signe d'approcher. |
-| **Le Crépuscule**   | La sève noire suinte de trois arbres à la lisière. Un chasseur qui s'en est approché revient hagard, les yeux fuyants, et refuse de parler. La nuit suivante, il disparaît.       |
+| **Les Ombres**      | Des enfants de la tribu ont aperçu un énorme Ours, il était effrayant et suintant un liquide noir et visqueux.                                                                    |
+| **Le Crépuscule**   | La lisière de la Forêt Sacrée semble avoir avancé d'un pas depuis hier. Un enfant de la tribu raconte avoir vu "une ombre avec le visage de **Gog**" lui faire signe d'approcher. |
 | **La Nuit**         | **Gog** entraine plusieurs membre de la tribu dans la foret.                                                                                                                      |
 | **Minuit Approche** | La forêt avance visiblement. Les arbres bougent la nuit. Le feu sacré de la tribu s'éteint seul.                                                                                  |
 | **Minuit**          | La vallée est engloutie. La tribu est dispersée ou corrompue. Magog la Forêt Blessée s'étend sur des jours de marche. Le médaillon est perdu.                                     |
@@ -82,7 +84,7 @@ Chaleur des feux, odeur de cuir tanné et de poisson séché. C'est ici que tout
 ### **La Lisière Interdite** (Antre — abriter les monstres) :
 La frontière entre la vallée et la Forêt Sacrée. L'air y est plus froid d'un coup. Les branches des arbres du bord sont tordues vers l'intérieur, comme aspirées. 
 **Indices**:
-- traces de pas menant à l'intérieur (et pas de traces en sortant)
+- traces de pas menant à l'intérieur
 - sève noire sur les troncs
 - petits animaux morts
 ### La Forêt Sacrée — l'Intérieur (Dédale — embrouiller et séparer) :
@@ -92,7 +94,7 @@ Dès qu'on y pénètre, les repères disparaissent. Le sol absorbe les sons. Les
 	**+ Futé** pour retrouver son chemin dans la forêt, la sortie ou la direction de  l'arbre sacré
 	- 10+ Vous retrouvez votre chemin
 	- 7-9 Vous trouvez votre chemin mais faite une mauvaise rencontre
-	- échec : Vous tournez en rond perdez du temps et faite de mauvaise rencontre
+	- échec : Le groupe et séparé / capturé par la forêt.
 
 ### L'Arbre de la Connaissance (Portail infernal — engendrer le mal) :
 Au  cœur de la forêt. Immense, noir de sève, ses fruits encore partiellement dévorés pendus à ses branches. C'est ici que se joue le rituel de réparation. La présence de **Magog** y est maximale. Le médaillon en obsidienne réagit à la présence de l'Arbre.
@@ -100,10 +102,10 @@ Au  cœur de la forêt. Immense, noir de sève, ses fruits encore partiellement 
 ---
 ## Figurants
 ### La Gardienne du Feu (Témoin — révéler des informations) :
-Vieille, aveugle d'un œil, elle sait mais ne dit pas tout. 
+Vieille, aveugle d'un œil. Elle est la plus ancienne de la tribu ne bouges presque plus de sa huttes. C'est elle qu'on vient voir quand on a une question. Elle connait les rites ancestraux pour chasser ou apaiser les esprits.
 
 ### Rok, le Chef de Chasse (Officiel — être méfiant):
-Il voudrait partir à la guerre contre la forêt. Il ne croit pas au rituel.
+Il pense pouvoir résoudre les problèmes par la force. C'est un chasseur respecté, il est capable de mobiliser une bonne partie de la tribu.
 
 ### Mira (Innocent — survivre):
 Petite sœur de **Gog**. Elle a vu **Gog** partir vers la forêt cette nuit-là mais s'est tue par peur. 
