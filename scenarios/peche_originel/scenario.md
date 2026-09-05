@@ -37,7 +37,7 @@
 ## Sbires
 ### Gog *(Renfield — pousser les victimes vers Magog)* : 
 Jeune chasseur de la tribu, curieux jusqu'à l'imprudence. Désormais à moitié corrompu, il ne souffre pas. Il croit sincèrement avoir découvert quelque chose de merveilleux.Il a consommé les fruits de l'arbre et appris a corrompre l'esprit de la forêt.
-Il est persuadé d'avoir été guidé par une puissance supérieures, **Le créateur**.
+Il est persuadé d'avoir été guidé par une puissance supérieure, **Le créateur**.
 - **Blessure** : 7 
 - **Armure** : 0
 #### Attaques
@@ -54,7 +54,7 @@ Un animal de la vallée — chamois, loup ou sanglier — dont les yeux sont dev
 - **Blessures** : 5 
 - **Armure** : 1
 #### Attaques
-- Morsure corrompue ( 2 Dégats, personnel ) laisse une marque noire qui pique au contact de la forêt.
+- Morsure corrompue ( 2 Dégâts, personnel ) laisse une marque noire qui pique au contact de la forêt.
 
 ###  **L'Ours Corrompu** *(Bête — tout détruire)* : 
 L'animal totémique de la tribu, retourné contre elle. Immense, les flancs suintant de sève noire. C'est lui qui porte la **Pierre de Magog** dans sa poitrine
