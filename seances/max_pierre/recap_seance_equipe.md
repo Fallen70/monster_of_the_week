@@ -39,13 +39,14 @@ Figurant **Alice** et **Violette** **Chilton** Aidés par les joueurs
 
 Les plans d'**Obéron** ont été contrés il n'a pas reçu son dû et aucun contact avec les joueurs.
 Il pourrait chercher une vengeance sur les joueurs, Handfast ou les Chilton.
+**Violette** va entamer des négociations avec **Oberon**.
 ### Equipe
 - Ezekiel
 - Enyeto Bear
 # Scénario a venir
 ## péché originel 06/09/2026
  Accroche pour Enyeto *Tu reçois un appel de ton père "Tu dois en apprendre plus sur le médaillon, rejoins moi à la maison. Nous t'aiderons a implorer une vision".*
-### rituel de purification
+### Rituel de purification
 Une loge de transpiration est placée au centre d'un cercle tracé à l’ocre rouge. Les points cardinaux sont représentée par des pierres blanches.
 L'entrée de la loge est orientée à l'est. Les joueurs sont invité a porter des vêtements de cérémonie et abandonner leurs effets personnels.
 Après plusieurs heures dans la chaleur, les odeurs de sauge et de tabac vous envahissent.
@@ -53,5 +54,20 @@ On vous offre le calumet en implorant le grand esprit d'être un guide dans votr
 
 #### Questions pour les joueurs
 - [[spirifie]] "La forêt sacrée est interdite, quel autre règle doit on respecter?"
+	-  Interdit d'y faire couler le sang 
 - [[autre]] "Qu'est ce que tu t'es permis à la faveur de la nuit?"
+	- Manger de la viande en douce dans les reserves
+
+Sauge rivale de l'etrangere, 
+Vision de gog mangeant les fruits pour Sauge
+Absence de gog sur les virée nocturnes
+
+Sauge lors d'un voyage des esprit, comprends que mère ours est corrompue et que  les bêtes viennent de la foret sacrée.
+L’étrangère a suivi gog jusqu’à l'arbre et l'a vu consommer les fruits de l'arbre
+L'étrangère a subi une vision de la foret engloutissant tout
+l’étrangère est dans les vapes au milieu de la foret sacrée.
+
+
+Vision pour Sauge: Ezekiel ou un divin guidant gog a travers la forêt sacréé
+
 

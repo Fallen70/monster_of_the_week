@@ -5,8 +5,8 @@ La vallée est un endroit sûr dans lequel il fait bon vivre, la nourriture est 
 ## Membres de la communauté
 
 - **Rok** ( *spécialité : Chasseur* ): soutien de chasseur`[ ]|[ ][ ]|[ ][ ][ ]`
-- **Gardienne du feu** ( *spécialité : Gardien du savoir* ): soutien de chasseur`[ ]|[ ][ ]|[ ][ ][ ]`
+- **Gardienne du feu** ( *spécialité : Gardien du savoir* ): soutien de chasseur`[ ]|[ ][ ]|[ ][ ][ ]` lien avec sauge éducation spirituelle
 - **Noisette** ( *spécialité : Guérisseur* ): soutien de chasseur`[ ]|[ ][ ]|[ ][ ][ ]`
 - **Huit-orteils** ( *spécialité : Artisan* ): soutien de chasseur`[ ]|[ ][ ]|[ ][ ][ ]`
 - **Mère Ours** ( *Esprit sauvage* ): soutien de chasseur`[ ]|[ ][ ]|[ ][ ][ ]`
-- **Gog** ( *spécialité:  Collecte* ): soutien de chasseur`[ ]|[ ][ ]|[ ][ ][ ]`
+- **Gog** ( *spécialité:  Collecte* ): soutien de chasseur`[ ]|[ ][ ]|[ ][ ][ ]` lien avec l’étrangère mange en douces ensembles

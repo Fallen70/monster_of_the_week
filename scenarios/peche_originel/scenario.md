@@ -4,7 +4,7 @@
 > Ce scénario **ne suit pas la structure classique** (les PJ ne sont pas des Chasseurs modernes).
 > Ils sont des membres de la **Tribu de l'Ours**, témoins et acteurs d'un méfait à réparer.
 
-**Concept** : **Gog**, un jeune membre de la tribu, a transgressé l'interdit de la Forêt Sacrée et dévoré les fruit de l'arbre de la connaissance. Ce faisant, il a corrompu **Mére Ourse**, qui devient **Magog** — une force de destruction qui menace la vallée. Les PJ doivent comprendre ce qui s'est passé, retrouver **Gog**, et réparer le lien brisé avec **Mére Ourse** avant que la vallée ne soit perdue.
+**Concept** : **Gog**, un jeune membre de la tribu, a transgressé l'interdit de la Forêt Sacrée et dévoré les fruit de l'arbre de la connaissance. Ce faisant, l'esprit de la forêt **Magog** a corrompu **Mére Ourse** — une force de destruction qui menace la vallée. Les PJ doivent comprendre ce qui s'est passé, retrouver **Gog**, et réparer le lien brisé avec la forêt sacrée avant que la vallée ne soit perdue.
 
 **L'Accroche** : La vallée change. Le gibier fuit. Les rêves des anciens sont hantés de silhouettes sombres. L'esprit de l'Ours n'a pas répondu au dernier rituel. Et **Gog** — le jeune chasseur — a disparu depuis plusieurs jours.
 
@@ -20,12 +20,12 @@
 ---
 ## La Menace Principale — Corruption de l'arbre sacré
 
-***Phénomène** motivation : corrompre et faire pourrir l'environnement.
+**_Phénomène_** motivation : corrompre et faire pourrir l'environnement.
 
 *   **Nom** : Magog, Esprit de la foret corrompu
 *   **Type & Motivation** : Phénomène — corrompre et faire pourrir la vallée depuis l'intérieur
 *   **Nature** : Ce n'est pas une créature autonome. C'est une **blessure dans le tissu du monde**, née de la transgression de **Gog**. La corruption se manifeste comme une présence de ténèbres végétales : arbres qui saignent une sève noire, animaux aux yeux vides, visions cauchemardesques.
-*   **Faiblesse** : Le méfait doit être *reconnu, nommé et restitué*. **Gog** doit avouer sa transgression devant l'Esprit de l'Ours, et offrir un sacrifice volontaire (son sang, sa mémoire de la connaissance, ou sa vie). Le médaillon en obsidienne à tête d'ours est le **vecteur du rituel de réparation**.
+*   **Faiblesse** : Le méfait doit être *reconnu, nommé et restitué*. **Gog** doit avouer sa transgression devant l'Esprit de la forêt, et offrir un sacrifice volontaire (son sang, sa mémoire de la connaissance, ou sa vie). Le médaillon en obsidienne à tête d'ours est le **vecteur du rituel de réparation**.
 *   **Blessures** : Magog ne peut pas être blessé physiquement. Toute attaque directe contre la Forêt renforce la corruption.
 ### Manœuvres
 
@@ -70,7 +70,7 @@ Seul un rituel de chasse accompli avec respect peut l'apaiser et la rendre plus 
 | Étape               | Événement                                                                                                                                                                         |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Le Jour**         | Les animaux de la vallée commencent à fuir vers les collines. Un chamois est retrouvé mort, les yeux noirs comme du charbon.                                                      |
-| **Les Ombres**      | Des enfants de la tribu ont aperçu un énorme Ours, il était effrayant et suintant un liquide noir et visqueux.                                                                    |
+| **Les Ombres**      | Des enfants de la tribu ont aperçu un énorme Ours, il était effrayant et suintant d'un liquide noir et visqueux.                                                                  |
 | **Le Crépuscule**   | La lisière de la Forêt Sacrée semble avoir avancé d'un pas depuis hier. Un enfant de la tribu raconte avoir vu "une ombre avec le visage de **Gog**" lui faire signe d'approcher. |
 | **La Nuit**         | **Gog** entraine plusieurs membre de la tribu dans la foret.                                                                                                                      |
 | **Minuit Approche** | La forêt avance visiblement. Les arbres bougent la nuit. Le feu sacré de la tribu s'éteint seul.                                                                                  |
