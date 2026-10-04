@@ -58,7 +58,7 @@ On vous offre le calumet en implorant le grand esprit d'être un guide dans votr
 - [[autre]] "Qu'est ce que tu t'es permis à la faveur de la nuit?"
 	- Manger de la viande en douce dans les reserves
 
-Sauge rivale de l'etrangere, 
+Sauge rivale de l’étrangère, 
 Vision de gog mangeant les fruits pour Sauge
 Absence de gog sur les virée nocturnes
 
@@ -68,6 +68,6 @@ L'étrangère a subi une vision de la foret engloutissant tout
 l’étrangère est dans les vapes au milieu de la foret sacrée.
 
 
-Vision pour Sauge: Ezekiel ou un divin guidant gog a travers la forêt sacréé
+Vision pour Sauge: Ezekiel ou un divin guidant gog a travers la forêt sacrée
 
 
