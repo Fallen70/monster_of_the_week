@@ -64,10 +64,21 @@ Absence de gog sur les virée nocturnes
 
 Sauge lors d'un voyage des esprit, comprends que mère ours est corrompue et que  les bêtes viennent de la foret sacrée.
 L’étrangère a suivi gog jusqu’à l'arbre et l'a vu consommer les fruits de l'arbre
+poche de sève recoltée par l'étrangere
 L'étrangère a subi une vision de la foret engloutissant tout
 l’étrangère est dans les vapes au milieu de la foret sacrée.
 
+Vision pour Sauge: Un esprit ayant l'air plus rayonnant guidant gog a travers la forêt sacrée
+Chasse a l'ours et récupération de la pierre de haine
+Transformation de la pierre en médaillon
+**Gog** est toujours absent
 
-Vision pour Sauge: Ezekiel ou un divin guidant gog a travers la forêt sacrée
+# A venir
+**Gog** retourne au camp et fais un prêche cf [[Ezekiel_Pierre]], une partie de la tribu le suit a travers la forêt.
+Faire réagir le médaillon à la présence de **Gog** 
+
+
+
+
 
 

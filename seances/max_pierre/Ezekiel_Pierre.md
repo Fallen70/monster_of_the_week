@@ -11,7 +11,7 @@
 Dans un grand bureau sont amassé des tas de tablettes gravée, parchemin et manuscrit. Sur le bureau un petit écriteau *Metatron*.
 - Objectif était d’asseoir la puissance de l’Éternel 
 - Demander a Ezekiel des explications sur la situation
-- Ecrire le raopport
+- Ecrire le rapport
 
 
  
