@@ -11,6 +11,7 @@ Follower - Très enthousiaste ravie d'aider les chasseurs
 
 Shérif manipulé pour atteindre la scène de crime via télépathie par [[Corvus RR]].
 [[Damonjager JF]] a analysé les énergies de la scène, deux présences de la colère et du slime en amont
+Marque de Constance vue sur Caleb.
 
 # A venir
 [[Giles CB]] a échouer sur un mener l’enquête => **Attention du monstre**
