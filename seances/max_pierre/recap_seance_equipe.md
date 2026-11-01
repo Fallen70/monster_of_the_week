@@ -72,10 +72,11 @@ Vision pour Sauge: Un esprit ayant l'air plus rayonnant guidant gog a travers la
 Chasse a l'ours et récupération de la pierre de haine
 Transformation de la pierre en médaillon
 **Gog** est toujours absent
-
-# A venir
 **Gog** retourne au camp et fais un prêche cf [[Ezekiel_Pierre]], une partie de la tribu le suit a travers la forêt.
-Faire réagir le médaillon à la présence de **Gog** 
+**Gog** convertit des membre de la tribu et les embarque dans la foret
+
+L'équipe réussit a neutraliser **Gog** et le bannir
+
 
 
 
