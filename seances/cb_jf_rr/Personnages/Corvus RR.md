@@ -29,4 +29,4 @@ prémonition
 ## Histoire
 
 - A utilisé ces pouvoir de télépathie sur [[Giles CB]] et l'a aidé sur ces objectifs
-- DamonJager l'a vu se pougner pdt qu'il lisait les pensées de Giles
+- [[Damonjager JF]] l'a vu se pougner pdt qu'il lisait les pensées de Giles
