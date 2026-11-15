@@ -4,8 +4,8 @@
 > pour lui rendre hommage et respecter ces interdits.
 
 # Le Spirifié
-- Nom: #TBD 
-- Apparence: #TBD
+- Nom:
+- Apparence:
 ## Statistiques
 - **Charme** : +1
 - **Cool** : +1
